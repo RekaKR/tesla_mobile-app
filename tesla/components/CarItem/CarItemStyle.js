@@ -13,12 +13,12 @@ const styles = StyleSheet.create({
   },
   titles: {
     width: '100%',
-    marginTop: '30%',
+    marginTop: '10%',
     alignItems: 'center',
   },
   title: {
     fontSize: 40,
-    fontWeight: '600',
+    fontWeight: "bold",
   },
   subtitle: {
     color: '#5c5e62',

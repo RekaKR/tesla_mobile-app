@@ -9,5 +9,5 @@ npx react-native init tesla
 npm install react-native-uuid
 
 #### Start the emulator
-npx react-native start
+npx react-native start\
 npx react-native run-android

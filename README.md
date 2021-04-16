@@ -5,7 +5,7 @@ It is a Tesla mobile app (Android) made with React Native.
 A code-along project based on this video https://youtu.be/iQ_0Fd_N3Mk
 
 ### Codes
-npx react-native init tesla
+npx react-native init tesla\
 npm install react-native-uuid
 
 #### Start the emulator

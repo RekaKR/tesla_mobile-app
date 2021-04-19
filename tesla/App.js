@@ -1,13 +1,11 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-//import uuid from 'react-native-uuid';
-//uuid.v4()
-import CarItem from './components/CarItem/CarItem';
+import CarsList from './components/CarsList/CarsList';
 
 const App = () => {
   return (
     <View style={styles.container}>
-      <CarItem name="Model X" tagline="Order Online For" taglineCTA={"Touchless Delivery"} image={require('./assets/images/Model3.jpeg')} />
+      <CarsList />
     </View>
   )
 }

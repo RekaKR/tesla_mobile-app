@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
   },
   titles: {
     width: '100%',
-    marginTop: '10%',
+    marginTop: '20%',
     alignItems: 'center',
   },
   title: {
@@ -23,6 +23,14 @@ const styles = StyleSheet.create({
   subtitle: {
     color: '#5c5e62',
     fontSize: 16
+  },
+  subtitleCTA: {
+    textDecorationLine: 'underline'
+  },
+  buttonContainer: {
+    width: '100%',
+    position: 'absolute',
+    bottom: 50
   }
 });
 

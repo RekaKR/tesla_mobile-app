@@ -1,10 +1,12 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
+import Header from './components/Header/Header';
 import CarsList from './components/CarsList/CarsList';
 
 const App = () => {
   return (
     <View style={styles.container}>
+      <Header />
       <CarsList />
     </View>
   )

@@ -1,8 +1,8 @@
 import React from 'react'
 import { View, FlatList, Dimensions } from 'react-native'
+import uuid from 'react-native-uuid';
 import cars from './cars'
 import CarItem from '../CarItem/CarItem'
-import uuid from 'react-native-uuid';
 import styles from './CarListStyle'
 
 const CarsList = () => {

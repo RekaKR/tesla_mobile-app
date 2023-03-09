@@ -3,6 +3,7 @@ It is a Tesla mobile app made with React Native.
 
 ## About the Project
 A code-along project based on this video https://youtu.be/iQ_0Fd_N3Mk
+It is a learning project.
 
 ### Codes
 npx react-native init tesla\
